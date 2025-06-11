@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'materia favorita',
+    'Qual sua materia favorita do colegio',
+    'informatica,e quimica!!!'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'melhor projeto',
+    'Qual foi o melhor projeto que vocẽ fez em aula',
+    'foi o portifolio-mv114!!!',
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'professores favoritos',
+    'Quais são seus professores favoritos?',
+    'professor Rafael, e professora Laura!!!'
 )
